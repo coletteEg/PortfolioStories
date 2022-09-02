@@ -1,0 +1,42 @@
+National Park Website Experience
+-Used html, axios, css, js
+-Struggled with flex but got there using the internet to teach myself
+-Learned that while it was difficult it was awesome to see my project work. I love that feeling of
+getting stuff to work correctly.
+
+Fixing a bug in NP Website
+-Saw that some CSS had been added to something it shouldnt have
+-Discovered Both items had the same id
+-gave the problem a new class and gave that class new CSS
+-bug was resolved
+
+Learning new tech
+-Learning how to use bootstrap was HARD
+-watch multiple videos to get a grasp on how to use it
+-I chose to learn bootstrap because it is so helpful in building front ends quickly
+
+Learning new Tech 
+-learning JS
+-Got to learn it as part of my foundations course
+-crucial to learning coding basics and general lingo
+-watched many youtube videos and I am confident in my JS abilities now
+
+-----------------------------
+I always write out scripts using bullet points. I find that if I write out an entire paragraph that I need to follow verbatim that I will struggle and it will come off as fake and robotic.
+
+National Park Website Experience
+-Used html, axios, css, js
+-Struggled with flex
+-Searched over youtube and other websites to help teach myself some flex basics
+-Learned some key things about flex-
+-Like i need to apply it to the parent in order to affect the child. If I apply it to the child it will not show up
+-Learned that while it was difficult it was awesome to see my project work. I love that feeling of
+getting stuff to work correctly.
+
+Fixing a bug in NP Website
+-Saw that some CSS had been added to something it shouldnt have
+-One of my ul had suddenly gotten shading and a box around it
+-Discovered Both items had the same id
+-I had added CSS to one element not remembering that there was another element it would also affect
+-gave the ul a new class and gave that class new CSS
+-bug was resolved
